@@ -1,4 +1,5 @@
 const path = require('path')
+const NodemonPlugin = require( 'nodemon-webpack-plugin' )
 
 const entry = path.resolve('./index.js')
 
@@ -30,6 +31,13 @@ module.exports = {
       },
     ],
   },
+  plugins: [
+    new NodemonPlugin({
+      watch: path.resolve('./dist'),
+      ignore: ['*.js.map'],
+      script: './dist/bundle.js',
+    }),
+  ],
   resolve: {
     alias: {},
   },
