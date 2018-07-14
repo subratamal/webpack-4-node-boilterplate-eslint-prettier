@@ -1,6 +1,6 @@
 ## Webpack 4 Boilerplace with ESLint and Prettier
 
-[![Dependency Status](https://david-dm.org/subratamal/webpack-4-node-boilterplate-eslint-prettier.svg)](https://david-dm.org/subratamal/webpack-4-node-boilterplate-eslint-prettier.svg)
+[![devDependency Status](https://david-dm.org/subratamal/webpack-4-node-boilterplate-eslint-prettier/dev-status.svg)](https://david-dm.org/subratamal/webpack-4-node-boilterplate-eslint-prettier.svg)
 
 ## Description
 
