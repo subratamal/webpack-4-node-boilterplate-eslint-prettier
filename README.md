@@ -1,8 +1,10 @@
 ## Webpack 4 Boilerplace with ESLint and Prettier
 
+[![Dependency Status](https://david-dm.org/subratamal/webpack-4-node-boilterplate-eslint-prettier.svg)](https://david-dm.org/subratamal/webpack-4-node-boilterplate-eslint-prettier.svg)
+
 ## Description
 
-Minimal Webpack 4 Boilerplate configuration for `Node.js` projects with some essential tooling setup: `ESLint`, `Prettier` and `Editorconfig`.
+Minimal Webpack 4 Boilerplate configuration for `Node.js` with some essential tooling setup: `ESLint`, `Prettier` and `Editorconfig`.
 
 > ESLint, Prettier, Editorconfig are opinionated. Change the configurations which works for you.
 
